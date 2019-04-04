@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Batman",
+    "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/images/TheDarkKnight063011_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Wonder Woman",
+    "image": "https://vignette.wikia.nocookie.net/readyplayerone/images/9/93/Wonder_Woman.jpg/revision/latest?cb=20180305155100"
+  },
+  {
+    "id": 3,
+    "name": "Aquaman",
+    "image": "https://timedotcom.files.wordpress.com/2018/12/aquaman-dc-movie.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Flash",
+    "image": "https://fanfest.com/wp-content/uploads/2017/05/Ezra-Miller-in-The-Flash-Movie.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cyborg",
+    "image": "https://i1.wp.com/batman-news.com/wp-content/uploads/2017/08/Cyborg-Justice-League-Poster-HD-F-1.jpg?resize=696%2C392&quality=80&strip=info&ssl=1"
+  },
+  {
+    "id": 6,
+    "name": "Joker",
+    "image": "https://cnet1.cbsistatic.com/img/JeAibNOK9VnDbfZW3pMhoZPi8xo=/936x527/2018/07/16/87518406-dde9-41e5-b99b-8ae54755b4c6/jokers-heathledger-1.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Harley Quinn",
+    "image": "https://vignette.wikia.nocookie.net/dccu/images/6/68/Margot_Robbie_as_harley_Quinn.jpg/revision/latest?cb=20170109011841"
+  },
+  {
+    "id": 8,
+    "name": "Deadshot",
+    "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/wire/legacy/Deadshot_1.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Superman",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/07/13/11/man-of-steel-henry-cavill.jpg"
+  },
+  {
+    "id": 10,
+    "name": "General Zod",
+    "image": "https://vignette.wikia.nocookie.net/newdcmovieuniverse/images/2/2a/Dot.png/revision/latest?cb=20141207174359"
+  },
+  {
+    "id": 11,
+    "name": "Catwoman",
+    "image": "https://fandangogroovers.files.wordpress.com/2012/06/anne-hathaway-catwoman.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Batwoman",
+    "image": "https://www.syfy.com/sites/syfy/files/styles/1200x680/public/2018/11/batwoman_0.jpg"
+  }
+]
